@@ -21,4 +21,4 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
-//второй тестовый комментарий lol
+//второй тестовый комментарий
